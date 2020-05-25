@@ -1,0 +1,23 @@
+{
+  "name": "es6miniproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anitha-Venkatesan/ES6MiniProject.git"
+  },
+  "author": "Anitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anitha-Venkatesan/ES6MiniProject/issues"
+  },
+  "homepage": "https://github.com/Anitha-Venkatesan/ES6MiniProject#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {}
+}
