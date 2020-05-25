@@ -29,11 +29,7 @@ inquirer
         name: "github"
     }
   ]).then(function(data) {
-    
-
    
-      
-  
       let personDetails = `
       <div class="person">
          <h2>Name :
@@ -52,7 +48,7 @@ inquirer
           }
           else console.log("Succesfully Writing into the html file");
     });
-  
+    
   }); 
     
 
